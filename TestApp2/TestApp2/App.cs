@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using TestApp2.infrastructure;
+using TestApp2.model;
 using Xamarin.Forms;
 
 namespace TestApp2
@@ -14,20 +15,16 @@ namespace TestApp2
 
             MainPage =  new NavigationPage(  new Startpage());
 
-            // The root page of your application
-            //MainPage = new ContentPage
-            //{
-            //    Content = new StackLayout
-            //    {
-            //        VerticalOptions = LayoutOptions.Center,
-            //        Children = {
-            //            new Label {
-            //                HorizontalTextAlignment = TextAlignment.Center,
-            //                Text = "Welcome to Xamarin Forms SaftingerSepp!"
-            //            }
-            //        }
-            //    }
-            //};
+            CreateDatabase();
+
+
+        }
+
+        public void CreateDatabase()
+        {
+           var  database = DependencyService.Get<ISQLite>().GetConnection();
+            database.CreateTable<Task>();
+            database.CreateTable<model.TaskList>();
         }
 
         protected override void OnStart()

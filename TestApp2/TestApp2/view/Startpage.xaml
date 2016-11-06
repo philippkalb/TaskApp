@@ -7,7 +7,7 @@
   <ListView x:Name="ListOfTasksView" ItemTapped ="ItemClicked">
     <ListView.ItemTemplate>
       <DataTemplate>
-        <TextCell Text="{Binding DisplayName}" />
+        <TextCell Text="{Binding Name}" />
       </DataTemplate>
     </ListView.ItemTemplate>
   </ListView>
