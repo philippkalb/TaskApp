@@ -1,0 +1,2 @@
+C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2.WinPhone\TestApp2.WinPhone.csproj;x86
+C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2\TestApp2.csproj;neutral

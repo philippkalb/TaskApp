@@ -1,0 +1,5 @@
+TestApp2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  TestApp2.view.TaskListView.xaml
+  TestApp2.view.Startpage.xaml
+  TestApp2.view.CreateTaskListView.xaml
+  TestApp2.view.CreateTaskView.xaml

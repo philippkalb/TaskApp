@@ -1,0 +1,2 @@
+C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\TaskApp.csproj;arm
+C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2\TestApp2.csproj;neutral

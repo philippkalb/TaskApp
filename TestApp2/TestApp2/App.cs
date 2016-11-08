@@ -12,19 +12,19 @@ namespace TestApp2
     {
         public App()
         {
-
-            MainPage =  new NavigationPage(  new Startpage());
-
+            //set up datebase
             CreateDatabase();
 
 
+            MainPage =  new NavigationPage(  new Startpage());
+            
         }
 
         public void CreateDatabase()
         {
            var  database = DependencyService.Get<ISQLite>().GetConnection();
             database.CreateTable<Task>();
-            database.CreateTable<model.TaskList>();
+            database.CreateTable<TaskList>();
         }
 
         protected override void OnStart()

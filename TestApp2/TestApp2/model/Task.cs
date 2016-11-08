@@ -4,6 +4,10 @@ namespace TestApp2.model {
 
    public class Task {
 
+        public Task() {
+            Fulfilled = false;
+        }
+
         [PrimaryKey, AutoIncrement]
         public long Id { get; set; }
 
@@ -12,5 +16,7 @@ namespace TestApp2.model {
         public string Count { get; set; }
 
         public long TaskListId { get; set; }
+
+        public bool Fulfilled { get; set; }
     }
 }
