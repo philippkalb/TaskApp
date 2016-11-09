@@ -11,12 +11,11 @@
           <StackLayout Orientation="Vertical">
             <StackLayout Orientation="Horizontal">
               <Image Source="{Binding statusImage}" Aspect="AspectFit"  HeightRequest="30"/>
-              <Label Text="{Binding Name}"/>
+              <Label Text="{Binding Name}" FontSize="Medium"/>
             </StackLayout>
           </StackLayout>
           <ViewCell.ContextActions>
-            <MenuItem Clicked="OnDelete" CommandParameter="{Binding .}"
-               Text="Delete" IsDestructive="True" />
+            <MenuItem Clicked="OnDelete" CommandParameter="{Binding .}" Text="Delete" IsDestructive="True" />
           </ViewCell.ContextActions>
         </ViewCell>
       </DataTemplate>
@@ -26,7 +25,8 @@
   <Button Text="Add new Item"
          HorizontalOptions="Center"
          VerticalOptions="CenterAndExpand"
-         Clicked="addNewItem"/>
+         Clicked="addNewItem"
+         Image="plus.png" />
   </StackLayout>
 
 </ContentPage>

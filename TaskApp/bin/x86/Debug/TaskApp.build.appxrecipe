@@ -409,6 +409,9 @@
     <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Inspection.png">
       <PackagePath>Inspection.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\plus.png">
+      <PackagePath>plus.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
@@ -447,6 +450,18 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2\Images\Unchecked.png">
       <PackagePath>TestApp2\Images\Unchecked.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Logo\310.scale-100.jpg">
+      <PackagePath>Logo\310.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Logo\71.scale-100.jpg">
+      <PackagePath>Logo\71.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Logo\71.scale-200.jpg">
+      <PackagePath>Logo\71.scale-200.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>

@@ -61,6 +61,21 @@
     <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\ARM\Release\ilc\Inspection.png">
       <PackagePath>Inspection.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\ARM\Release\ilc\Logo\310.scale-100.jpg">
+      <PackagePath>Logo\310.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\ARM\Release\ilc\Logo\71.scale-100.jpg">
+      <PackagePath>Logo\71.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\ARM\Release\ilc\Logo\71.scale-200.jpg">
+      <PackagePath>Logo\71.scale-200.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\ARM\Release\ilc\plus.png">
+      <PackagePath>plus.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\ARM\Release\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>

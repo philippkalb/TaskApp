@@ -459,3 +459,11 @@ C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\obj\ARM\Re
 C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\obj\ARM\Release\ilc\intermediate\Task Application.McgInterop\SharedStubs.g.cs
 C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\obj\ARM\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
 C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\obj\ARM\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro
+C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\ARM\Release\ilc\Logo\310.scale-100.jpg
+C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\ARM\Release\ilc\Logo\71.scale-100.jpg
+C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\ARM\Release\ilc\Logo\71.scale-200.jpg
+C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\ARM\Release\ilc\plus.png
+C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\obj\ARM\Release\ilc\in\plus.png
+C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\obj\ARM\Release\ilc\in\Logo\310.scale-100.jpg
+C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\obj\ARM\Release\ilc\in\Logo\71.scale-100.jpg
+C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\obj\ARM\Release\ilc\in\Logo\71.scale-200.jpg

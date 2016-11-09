@@ -18,4 +18,5 @@ C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2\
 C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2\obj\Release\TestApp2.view.CreateTaskView.xaml.g.cs
 C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2\obj\Release\TestApp2.dll
 C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2\obj\Release\TestApp2.pdb
-C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2\obj\Release\TestApp2.csprojResolveAssemblyReference.cache
+C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2\obj\Release\TestApp2.dll.mdb
+C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2\bin\Release\TestApp2.dll.mdb

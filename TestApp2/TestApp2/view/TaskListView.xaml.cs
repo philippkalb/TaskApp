@@ -68,7 +68,7 @@ namespace TestApp2
 
         public void OnDelete(object sender, EventArgs e) {
             var mi = ((MenuItem)sender);
-            var id = (mi.BindingContext as model.Task).Id;
+            var id = (mi.BindingContext as TaskViewModel).Id;
 
             var database = DependencyService.Get<ISQLite>().GetConnection();
             database.Delete<model.Task>(id);
