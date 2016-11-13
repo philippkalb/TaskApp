@@ -1,7 +1,9 @@
 ﻿
+using System.ComponentModel;
+
 namespace TestApp2.view.model {
 
-    public class TaskViewModel {
+    public class TaskViewModel: INotifyPropertyChanged {
 
         public TaskViewModel() {
             statusImage = "Unchecked.png";
@@ -15,7 +17,18 @@ namespace TestApp2.view.model {
 
         public long TaskListId { get; set; }
 
-        public string statusImage { get; set; }
+        private string _statusImage;
 
+        public string statusImage {
+            get {
+                return _statusImage;
+            }
+            set {
+                _statusImage = value;
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("statusImage"));
+            }
+        }
+
+        public event PropertyChangedEventHandler PropertyChanged;
     }
 }

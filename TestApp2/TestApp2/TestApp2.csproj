@@ -46,6 +46,7 @@
     <Compile Include="model\Task.cs" />
     <Compile Include="model\TaskList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="view\model\TaskListViewModel.cs" />
     <Compile Include="view\model\TaskViewModel.cs" />
     <Compile Include="view\Startpage.xaml.cs">
       <DependentUpon>Startpage.xaml</DependentUpon>

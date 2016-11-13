@@ -5,15 +5,16 @@ using TestApp2.infrastructure;
 using TestApp2.view.model;
 using System.Reflection;
 using Xamarin.Forms;
+using TestApp2.model;
 
 namespace TestApp2
 {
     public partial class TaskListView : ContentPage {
 
         private ObservableCollection<TaskViewModel> tasks = new ObservableCollection<TaskViewModel>();
-        private model.TaskList taskList;
+        private TaskListViewModel taskList;
         
-        public TaskListView(model.TaskList item)
+        public TaskListView(TaskListViewModel item)
         {
             InitializeComponent();
 
@@ -32,7 +33,7 @@ namespace TestApp2
         public void loadTasksforList(long listId) {
             tasks.Clear();
             var database = DependencyService.Get<ISQLite>().GetConnection();
-            var tasksQuery = database.Table<model.Task>().Where(x => x.TaskListId == listId);
+            var tasksQuery = database.Table<Task>().Where(x => x.TaskListId == listId);
 
             foreach(var task in tasksQuery) {
                 var model = new TaskViewModel {
@@ -58,12 +59,15 @@ namespace TestApp2
             var task = database.Get<model.Task>(y => y.Id == taskModel.Id);
             if (task.Fulfilled) {
                 task.Fulfilled = false;
+                taskModel.statusImage = "Unchecked.png";
+
             } else {
                 task.Fulfilled = true;
+                taskModel.statusImage = "Checked.png";
             }
+            
             database.Update(task);
-            loadTasksforList(taskList.Id);
-
+            MessagingCenter.Send(taskList, "BackToStartPage");
         }
 
         public void OnDelete(object sender, EventArgs e) {
@@ -71,14 +75,15 @@ namespace TestApp2
             var id = (mi.BindingContext as TaskViewModel).Id;
 
             var database = DependencyService.Get<ISQLite>().GetConnection();
-            database.Delete<model.Task>(id);
-            tasks.Remove(tasks.FirstOrDefault(X => X.Id == id));            
+            database.Delete<Task>(id);
+            tasks.Remove(tasks.FirstOrDefault(X => X.Id == id));
+            MessagingCenter.Send(taskList, "BackToStartPage");
         }
 
 
         public async void addNewItem(object sender, EventArgs e) {
-            var createListController = new CreateTaskView(tasks, taskList.Id);
-            await Navigation.PushModalAsync(createListController, true);
+            var createListController = new CreateTaskView(tasks, taskList);
+            await Navigation.PushModalAsync(createListController, true);           
         }
 
     }

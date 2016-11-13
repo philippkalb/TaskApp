@@ -10,8 +10,8 @@
   <Identity Name="22196992-afaa-4ba6-9651-bd47b3d79fbd" Publisher="CN=Mugbi" Version="1.0.0.0" ProcessorArchitecture="arm" />
   <mp:PhoneIdentity PhoneProductId="22196992-afaa-4ba6-9651-bd47b3d79fbd" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>TaskApp</DisplayName>
-    <PublisherDisplayName>Mugbi</PublisherDisplayName>
+    <DisplayName>Plain Task Management</DisplayName>
+    <PublisherDisplayName>Philipp Kalb</PublisherDisplayName>
     <Logo>Logo\NewStoreLogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -22,12 +22,8 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="Task Application.exe" EntryPoint="TaskApp.App">
-      <uap:VisualElements DisplayName="Philipps Task App" Square150x150Logo="Logo\Square150x150Logo.png" Square44x44Logo="Logo\Square44x44Logo.png" Description="Philipps Task Management Application" BackgroundColor="transparent">
-        <uap:DefaultTile Wide310x150Logo="Logo\Wide310x150Logo.png" Square71x71Logo="Logo\Square71x71Logo.png" Square310x310Logo="Logo\Square310x310Logo.png">
-          <uap:ShowNameOnTiles>
-            <uap:ShowOn Tile="square150x150Logo" />
-          </uap:ShowNameOnTiles>
-        </uap:DefaultTile>
+      <uap:VisualElements DisplayName="Plain Task Management" Square150x150Logo="Logo\Square150x150Logo.png" Square44x44Logo="Logo\Square44x44Logo.png" Description="plain application to manage tasks or shopping lists. Supports severall lists which contain one or more tasks." BackgroundColor="transparent">
+        <uap:DefaultTile Wide310x150Logo="Logo\Wide310x150Logo.png" Square310x310Logo="Logo\Square310x310Logo.png" Square71x71Logo="Logo\Square71x71Logo.png"></uap:DefaultTile>
         <uap:SplashScreen Image="Logo\SplashScreen.png" />
       </uap:VisualElements>
     </Application>

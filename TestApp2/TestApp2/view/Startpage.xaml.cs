@@ -2,26 +2,37 @@
 using System.Collections.ObjectModel;
 using System.Linq;
 using TestApp2.infrastructure;
+using TestApp2.model;
+using TestApp2.view.model;
 using Xamarin.Forms;
 
 namespace TestApp2
 {
     public partial class Startpage: ContentPage {
 
-        private ObservableCollection<model.TaskList> ListOfTasks = new ObservableCollection<model.TaskList>();
+        private ObservableCollection<TaskListViewModel> ListOfTasks = new ObservableCollection<TaskListViewModel>();
 
         public Startpage() {
             InitializeComponent();
             
             ListOfTasksView.ItemsSource = ListOfTasks;
-            var database = DependencyService.Get<ISQLite>().GetConnection();
-            var items = database.Table<model.TaskList>().Where(x => x.Id > 0);
-
-            foreach (var list  in items) {
-                ListOfTasks.Add(list);
-            }
-                
+            loadTasksLists();
+            MessagingCenter.Subscribe<TaskListViewModel>(this, "BackToStartPage", (sender) => loadTasksLists());
         }
+
+        public void loadTasksLists() {
+            ListOfTasks.Clear();
+            var database = DependencyService.Get<ISQLite>().GetConnection();
+            var tasksListQuery = database.Table<TaskList>().Where(x => x.Id > 0); ;
+
+            foreach (var list in tasksListQuery) {
+                //load 0 from DB
+                var countOpen =  database.Table<Task>().Count(x => x.TaskListId == list.Id && x.Fulfilled == false);
+                var model = new TaskListViewModel(list.Id, list.Name, countOpen);
+                ListOfTasks.Add(model);
+            }
+        }
+
 
         public async void addNewList(object sender, EventArgs e) {
             var createListController = new CreateTaskListView(ListOfTasks);
@@ -30,18 +41,17 @@ namespace TestApp2
         
 
         public async void ItemClicked(object sender, ItemTappedEventArgs e) {
-            var item = (model.TaskList)e.Item;
-
+            var item = (TaskListViewModel)e.Item;
             await Navigation.PushAsync(new TaskListView(item));
         }
 
         public void OnDelete(object sender, EventArgs e) {
             var mi = ((MenuItem)sender);
-            var id = (mi.BindingContext as model.TaskList).Id;
+            var id = (mi.BindingContext as TaskListViewModel).Id;
 
             var database = DependencyService.Get<ISQLite>().GetConnection();
-            database.Delete<model.TaskList > (id);
-            var tasks = database.Table<model.Task>().Where(x => x.TaskListId == id);
+            database.Delete<TaskList>(id);
+            var tasks = database.Table<Task>().Where(x => x.TaskListId == id);
 
             foreach(var task in tasks) {
                 database.Delete(task);
@@ -52,13 +62,17 @@ namespace TestApp2
 
         public void OnClear(object sender, EventArgs e) {
             var mi = ((MenuItem)sender);
-            var id = (mi.BindingContext as model.TaskList).Id;
+            var viewModel = (mi.BindingContext as TaskListViewModel);
+            var id = viewModel.Id;
             var database = DependencyService.Get<ISQLite>().GetConnection();
-            var tasks = database.Table<model.Task>().Where(x => x.TaskListId == id);
+            var tasks = database.Table<Task>().Where(x => x.TaskListId == id);
 
             foreach (var task in tasks) {
                 database.Delete(task);
             }
+
+            viewModel.OpenItems = string.Format("{0} open items", 0); 
+
         }
     }
 

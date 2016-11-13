@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-13T13:43:05.197</Modified>
+      <Modified>2016-11-13T16:34:49.279</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Task Application.exe">
       <PackagePath>entrypoint\Task Application.exe</PackagePath>
-      <Modified>2016-11-13T13:43:03.228</Modified>
+      <Modified>2016-11-13T16:34:48.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mugbi\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -538,7 +538,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2\bin\Debug\TestApp2.dll">
       <PackagePath>TestApp2.dll</PackagePath>
-      <Modified>2016-11-13T13:40:52.730</Modified>
+      <Modified>2016-11-13T16:34:46.315</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Checked.png">
       <PackagePath>Checked.png</PackagePath>
@@ -848,11 +848,11 @@
     <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-13T13:43:04.447</Modified>
+      <Modified>2016-11-13T15:43:53.820</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Core\Task Application.exe">
       <PackagePath>Task Application.exe</PackagePath>
-      <Modified>2016-11-13T13:43:05.181</Modified>
+      <Modified>2016-11-13T16:34:49.271</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
