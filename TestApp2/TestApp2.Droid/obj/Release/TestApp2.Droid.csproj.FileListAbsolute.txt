@@ -44,5 +44,5 @@ C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2.
 C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2.Droid\obj\Release\res\drawable-xxhdpi\icon.png
 C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2.Droid\obj\Release\R.cs.flag
 C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2.Droid\obj\Release\uploadflags.txt
-C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2.Droid\obj\Release\TestApp2.Droid.dll.mdb
-C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2.Droid\bin\Release\TestApp2.Droid.dll.mdb
+C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2.Droid\obj\Release\TestApp2.Droid.dll.mdb
+C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2.Droid\bin\Release\TestApp2.Droid.dll.mdb

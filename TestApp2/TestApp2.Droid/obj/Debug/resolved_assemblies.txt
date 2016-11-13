@@ -1,4 +1,4 @@
-C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2.Droid\obj\Debug\android\assets\TestApp2.Droid.dll
+C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2.Droid\obj\Debug\android\assets\PlainTaskManagement.Droid.dll
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2.Droid\obj\Debug\android\assets\FormsViewGroup.dll
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2.Droid\obj\Debug\android\assets\SQLite-net.dll
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2.Droid\obj\Debug\android\assets\SQLitePCLRaw.batteries_green.dll

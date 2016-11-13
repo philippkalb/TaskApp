@@ -97,8 +97,8 @@ public class MonoPackageManager {
 
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
-		/* We need to ensure that "TestApp2.Droid.dll" comes first in this list. */
-		"TestApp2.Droid.dll",
+		/* We need to ensure that "PlainTaskManagement.Droid.dll" comes first in this list. */
+		"PlainTaskManagement.Droid.dll",
 		"FormsViewGroup.dll",
 		"SQLite-net.dll",
 		"SQLitePCLRaw.batteries_green.dll",

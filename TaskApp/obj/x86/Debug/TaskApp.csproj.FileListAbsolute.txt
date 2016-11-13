@@ -3,7 +3,6 @@ C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\De
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\resources.pri
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\AppxManifest.xml
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Core\AppxManifest.xml
-C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Core\TaskApp.exe
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\TaskApp.build.appxrecipe
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Microsoft.CSharp.dll
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll

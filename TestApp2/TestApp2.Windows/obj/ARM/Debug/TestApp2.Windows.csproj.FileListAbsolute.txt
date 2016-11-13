@@ -51,3 +51,5 @@ C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2.
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2.Windows\obj\ARM\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2.Windows\obj\ARM\Debug\Xamarin.Forms.Platform.WinRT.Tablet.pri.xml
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2.Windows\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2.Windows\bin\ARM\Debug\Resources\checkmark.png
+C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2.Windows\bin\ARM\Debug\checkmark.png

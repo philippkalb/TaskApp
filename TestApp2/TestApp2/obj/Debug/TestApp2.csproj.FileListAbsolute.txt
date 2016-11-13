@@ -19,3 +19,5 @@ C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2\
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2\obj\Debug\TestApp2.dll
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2\obj\Debug\TestApp2.pdb
 C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2\obj\Debug\TestApp2.csprojResolveAssemblyReference.cache
+C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2\obj\Debug\TestApp2.dll.mdb
+C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2\bin\Debug\TestApp2.dll.mdb

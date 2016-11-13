@@ -1,7 +1,7 @@
-TestApp2.Droid.MainActivity, TestApp2.Droid;md55936cfe1864d48916239356af1fba6d1.MainActivity
-TestApp2.Droid.MainActivity, TestApp2.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55936cfe1864d48916239356af1fba6d1.MainActivity
-TestApp2.Droid.MainActivity;md55936cfe1864d48916239356af1fba6d1.MainActivity
-testapp2.droid.MainActivity;md55936cfe1864d48916239356af1fba6d1.MainActivity
+TestApp2.Droid.MainActivity, PlainTaskManagement.Droid;md51659b240dea5e2d0d0f935ec146ec1ad.MainActivity
+TestApp2.Droid.MainActivity, PlainTaskManagement.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51659b240dea5e2d0d0f935ec146ec1ad.MainActivity
+TestApp2.Droid.MainActivity;md51659b240dea5e2d0d0f935ec146ec1ad.MainActivity
+testapp2.droid.MainActivity;md51659b240dea5e2d0d0f935ec146ec1ad.MainActivity
 Android.Support.Design.Widget.Snackbar/SnackbarActionClickImplementor, Xamarin.Android.Support.Design;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar+SnackbarActionClickImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar.SnackbarActionClickImplementor;android.support.design.widget.Snackbar_SnackbarActionClickImplementor

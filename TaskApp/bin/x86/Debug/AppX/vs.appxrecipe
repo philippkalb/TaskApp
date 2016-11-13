@@ -10,13 +10,13 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>22196992-afaa-4ba6-9651-bd47b3d79fbd</PackageIdentityName>
     <PackageIdentityPublisher>CN=Mugbi</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>2BBA260D77AE503D8726004A37DCD1835147C1BB78DBE274409D014C410E3D1D</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>32C9BB80C97E10CF2702420400597654C12BFDC3B32B98BD32423F19D6A97817</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>22196992-afaa-4ba6-9651-bd47b3d79fbd_1.0.0.0_x86__tmja9p97g3502</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>22196992-afaa-4ba6-9651-bd47b3d79fbd_tmja9p97g3502!App</RegisteredUserModeAppID>
     <RegisteredPackageID>22196992-afaa-4ba6-9651-bd47b3d79fbd</RegisteredPackageID>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-09T20:03:16.926</Modified>
+      <Modified>2016-11-13T13:43:05.197</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Task Application.exe">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Task Application.exe">
       <PackagePath>entrypoint\Task Application.exe</PackagePath>
-      <Modified>2016-11-09T20:03:15.065</Modified>
+      <Modified>2016-11-13T13:43:03.228</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mugbi\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -536,98 +536,306 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2016-09-13T08:23:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2\bin\Debug\TestApp2.dll">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2\bin\Debug\TestApp2.dll">
       <PackagePath>TestApp2.dll</PackagePath>
-      <Modified>2016-11-09T19:39:00.245</Modified>
+      <Modified>2016-11-13T13:40:52.730</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Checked.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Checked.png">
       <PackagePath>Checked.png</PackagePath>
       <Modified>2016-11-08T19:17:22.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Inspection.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Inspection.png">
       <PackagePath>Inspection.png</PackagePath>
       <Modified>2016-11-08T20:09:07.659</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\plus.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\list.png">
+      <PackagePath>Logo\list.png</PackagePath>
+      <Modified>2016-11-12T09:17:04.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\NewStoreLogo.scale-100.png">
+      <PackagePath>Logo\NewStoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:56:09.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\NewStoreLogo.scale-125.png">
+      <PackagePath>Logo\NewStoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:56:11.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\NewStoreLogo.scale-150.png">
+      <PackagePath>Logo\NewStoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:56:12.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\NewStoreLogo.scale-200.png">
+      <PackagePath>Logo\NewStoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:56:14.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\NewStoreLogo.scale-400.png">
+      <PackagePath>Logo\NewStoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:56:22.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\SplashScreen.scale-100.png">
+      <PackagePath>Logo\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T09:01:32.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\SplashScreen.scale-125.png">
+      <PackagePath>Logo\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T09:01:32.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\SplashScreen.scale-150.png">
+      <PackagePath>Logo\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T09:01:29.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\SplashScreen.scale-200.png">
+      <PackagePath>Logo\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T09:01:25.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\SplashScreen.scale-400.png">
+      <PackagePath>Logo\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T09:01:17.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square150x150Logo.scale-100.png">
+      <PackagePath>Logo\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:54:35.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square150x150Logo.scale-125.png">
+      <PackagePath>Logo\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:54:44.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square150x150Logo.scale-150.png">
+      <PackagePath>Logo\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:54:47.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square150x150Logo.scale-200.png">
+      <PackagePath>Logo\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:54:49.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square150x150Logo.scale-400.png">
+      <PackagePath>Logo\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:54:49.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square310x310Logo.scale-100.png">
+      <PackagePath>Logo\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:09.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square310x310Logo.scale-125.png">
+      <PackagePath>Logo\Square310x310Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:17.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square310x310Logo.scale-150.png">
+      <PackagePath>Logo\Square310x310Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:19.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square310x310Logo.scale-200.png">
+      <PackagePath>Logo\Square310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:21.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square310x310Logo.scale-400.png">
+      <PackagePath>Logo\Square310x310Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:22.356</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.scale-100.png">
+      <PackagePath>Logo\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:25.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.scale-125.png">
+      <PackagePath>Logo\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:28.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.scale-150.png">
+      <PackagePath>Logo\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:31.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.scale-200.png">
+      <PackagePath>Logo\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:33.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.scale-400.png">
+      <PackagePath>Logo\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:38.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:40.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.targetsize-16_altform-unplated.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:55.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:43.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:55.934</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:55.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.targetsize-256_altform-unplated.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:56:06.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:50.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.targetsize-32_altform-unplated.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:58.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:53.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square44x44Logo.targetsize-48_altform-unplated.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:56:01.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square71x71Logo.scale-100.png">
+      <PackagePath>Logo\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:54:20.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square71x71Logo.scale-125.png">
+      <PackagePath>Logo\Square71x71Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:54:29.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square71x71Logo.scale-150.png">
+      <PackagePath>Logo\Square71x71Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:54:31.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square71x71Logo.scale-200.png">
+      <PackagePath>Logo\Square71x71Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:54:31.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Square71x71Logo.scale-400.png">
+      <PackagePath>Logo\Square71x71Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:54:33.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Wide310x150Logo.scale-100.png">
+      <PackagePath>Logo\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:54:52.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Wide310x150Logo.scale-125.png">
+      <PackagePath>Logo\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:54:54.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Wide310x150Logo.scale-150.png">
+      <PackagePath>Logo\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:04.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Wide310x150Logo.scale-200.png">
+      <PackagePath>Logo\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:04.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Logo\Wide310x150Logo.scale-400.png">
+      <PackagePath>Logo\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-13T08:55:05.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\plus.png">
       <PackagePath>plus.png</PackagePath>
       <Modified>2016-11-09T19:40:29.651</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-09-20T16:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T16:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-20T16:30:08.000</Modified>
+      <Modified>2016-11-09T20:19:46.156</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T16:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T16:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T16:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T16:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Unchecked.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Unchecked.png">
       <PackagePath>Unchecked.png</PackagePath>
       <Modified>2016-11-08T19:17:22.196</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2\Images\Checked.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2\Images\Checked.png">
       <PackagePath>TestApp2\Images\Checked.png</PackagePath>
       <Modified>2016-11-08T19:14:34.462</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2\Images\Inspection.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2\Images\Inspection.png">
       <PackagePath>TestApp2\Images\Inspection.png</PackagePath>
       <Modified>2016-11-08T20:09:22.235</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TestApp2\TestApp2\Images\Unchecked.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2\Images\Unchecked.png">
       <PackagePath>TestApp2\Images\Unchecked.png</PackagePath>
       <Modified>2016-11-08T19:14:34.474</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Logo\310.scale-100.jpg">
-      <PackagePath>Logo\310.scale-100.jpg</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-09T20:02:49.188</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Logo\71.scale-100.jpg">
-      <PackagePath>Logo\71.scale-100.jpg</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-09T20:01:15.012</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Logo\71.scale-200.jpg">
-      <PackagePath>Logo\71.scale-200.jpg</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-09T20:01:56.418</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2016-11-06T19:11:44.572</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Task Application.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Task Application.xr.xml">
       <PackagePath>Task Application.xr.xml</PackagePath>
       <Modified>2016-11-08T20:36:45.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2016-11-06T14:48:05.017</Modified>
+      <Modified>2016-11-12T15:38:26.624</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mugbi\.nuget\packages\Xamarin.Forms\2.3.2.127\lib\uap10.0\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
@@ -637,14 +845,14 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml</PackagePath>
       <Modified>2016-09-13T08:23:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-09T20:03:16.546</Modified>
+      <Modified>2016-11-13T13:43:04.447</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Core\Task Application.exe">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Core\Task Application.exe">
       <PackagePath>Task Application.exe</PackagePath>
-      <Modified>2016-11-09T20:03:16.911</Modified>
+      <Modified>2016-11-13T13:43:05.181</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
