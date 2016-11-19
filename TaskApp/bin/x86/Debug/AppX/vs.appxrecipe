@@ -16,25 +16,25 @@
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>32C9BB80C97E10CF2702420400597654C12BFDC3B32B98BD32423F19D6A97817</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>22196992-afaa-4ba6-9651-bd47b3d79fbd_1.0.0.0_x86__tmja9p97g3502</RegisteredPackageMoniker>
+    <RegisteredManifestChecksum>18B070DFD9942F4810946FA915F016C36AFFA8A0934318567AE5257BE28FF799</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>22196992-afaa-4ba6-9651-bd47b3d79fbd_1.0.1.0_x86__tmja9p97g3502</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>22196992-afaa-4ba6-9651-bd47b3d79fbd_tmja9p97g3502!App</RegisteredUserModeAppID>
     <RegisteredPackageID>22196992-afaa-4ba6-9651-bd47b3d79fbd</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=Mugbi</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredVersion>1.0.1.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-13T16:34:49.279</Modified>
+      <Modified>2016-11-19T16:34:07.954</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Task Application.exe">
       <PackagePath>entrypoint\Task Application.exe</PackagePath>
-      <Modified>2016-11-13T16:34:48.622</Modified>
+      <Modified>2016-11-19T16:33:58.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mugbi\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -538,7 +538,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TestApp2\TestApp2\bin\Debug\TestApp2.dll">
       <PackagePath>TestApp2.dll</PackagePath>
-      <Modified>2016-11-13T16:34:46.315</Modified>
+      <Modified>2016-11-19T16:33:47.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\Checked.png">
       <PackagePath>Checked.png</PackagePath>
@@ -848,11 +848,11 @@
     <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-13T15:43:53.820</Modified>
+      <Modified>2016-11-19T16:30:59.075</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Debug\Core\Task Application.exe">
       <PackagePath>Task Application.exe</PackagePath>
-      <Modified>2016-11-13T16:34:49.271</Modified>
+      <Modified>2016-11-19T16:34:07.943</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

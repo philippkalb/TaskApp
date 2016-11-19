@@ -3,9 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TestApp2.CreateTaskView">
   <ContentPage.Content>
-    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center" >
       <Label Text="Please specifiy the name of the new entry:" />
-      <Entry x:Name="ListNameEntry" Keyboard="Text" />
+      <Entry x:Name="ListNameEntry" Keyboard="Text" Completed="OnCompleted"/>
       <Grid>
         <Grid.RowDefinitions>
           <RowDefinition Height="*" />

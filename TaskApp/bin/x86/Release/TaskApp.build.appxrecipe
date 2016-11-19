@@ -10,110 +10,275 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>22196992-afaa-4ba6-9651-bd47b3d79fbd</PackageIdentityName>
     <PackageIdentityPublisher>CN=Mugbi</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\obj\x86\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\obj\x86\Release\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Checked.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Checked.png">
       <PackagePath>Checked.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\clrcompression.dll">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\e_sqlite3.dll">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\e_sqlite3.dll">
       <PackagePath>e_sqlite3.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Inspection.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Inspection.png">
       <PackagePath>Inspection.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\310.scale-100.jpg">
-      <PackagePath>Logo\310.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\list.png">
+      <PackagePath>Logo\list.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\NewStoreLogo.scale-100.png">
+      <PackagePath>Logo\NewStoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\71.scale-100.jpg">
-      <PackagePath>Logo\71.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\NewStoreLogo.scale-125.png">
+      <PackagePath>Logo\NewStoreLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\71.scale-200.jpg">
-      <PackagePath>Logo\71.scale-200.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\NewStoreLogo.scale-150.png">
+      <PackagePath>Logo\NewStoreLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\plus.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\NewStoreLogo.scale-200.png">
+      <PackagePath>Logo\NewStoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\NewStoreLogo.scale-400.png">
+      <PackagePath>Logo\NewStoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\SplashScreen.scale-100.png">
+      <PackagePath>Logo\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\SplashScreen.scale-125.png">
+      <PackagePath>Logo\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\SplashScreen.scale-150.png">
+      <PackagePath>Logo\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\SplashScreen.scale-200.png">
+      <PackagePath>Logo\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\SplashScreen.scale-400.png">
+      <PackagePath>Logo\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square150x150Logo.scale-100.png">
+      <PackagePath>Logo\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square150x150Logo.scale-125.png">
+      <PackagePath>Logo\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square150x150Logo.scale-150.png">
+      <PackagePath>Logo\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square150x150Logo.scale-200.png">
+      <PackagePath>Logo\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square150x150Logo.scale-400.png">
+      <PackagePath>Logo\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square310x310Logo.scale-100.png">
+      <PackagePath>Logo\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square310x310Logo.scale-125.png">
+      <PackagePath>Logo\Square310x310Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square310x310Logo.scale-150.png">
+      <PackagePath>Logo\Square310x310Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square310x310Logo.scale-200.png">
+      <PackagePath>Logo\Square310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square310x310Logo.scale-400.png">
+      <PackagePath>Logo\Square310x310Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.scale-100.png">
+      <PackagePath>Logo\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.scale-125.png">
+      <PackagePath>Logo\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.scale-150.png">
+      <PackagePath>Logo\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.scale-200.png">
+      <PackagePath>Logo\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.scale-400.png">
+      <PackagePath>Logo\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.targetsize-16_altform-unplated.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.targetsize-256_altform-unplated.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.targetsize-32_altform-unplated.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square44x44Logo.targetsize-48_altform-unplated.png">
+      <PackagePath>Logo\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square71x71Logo.scale-100.png">
+      <PackagePath>Logo\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square71x71Logo.scale-125.png">
+      <PackagePath>Logo\Square71x71Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square71x71Logo.scale-150.png">
+      <PackagePath>Logo\Square71x71Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square71x71Logo.scale-200.png">
+      <PackagePath>Logo\Square71x71Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Square71x71Logo.scale-400.png">
+      <PackagePath>Logo\Square71x71Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Wide310x150Logo.scale-100.png">
+      <PackagePath>Logo\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Wide310x150Logo.scale-125.png">
+      <PackagePath>Logo\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Wide310x150Logo.scale-150.png">
+      <PackagePath>Logo\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Wide310x150Logo.scale-200.png">
+      <PackagePath>Logo\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Logo\Wide310x150Logo.scale-400.png">
+      <PackagePath>Logo\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\plus.png">
       <PackagePath>plus.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Task Application.dll">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Task Application.dll">
       <PackagePath>Task Application.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Task Application.exe">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Task Application.exe">
       <PackagePath>Task Application.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Task Application.pdb">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Task Application.pdb">
       <PackagePath>Task Application.pdb</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\TestApp2\Images\Checked.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\TestApp2\Images\Checked.png">
       <PackagePath>TestApp2\Images\Checked.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\TestApp2\Images\Inspection.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\TestApp2\Images\Inspection.png">
       <PackagePath>TestApp2\Images\Inspection.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\TestApp2\Images\Unchecked.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\TestApp2\Images\Unchecked.png">
       <PackagePath>TestApp2\Images\Unchecked.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Unchecked.png">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\Unchecked.png">
       <PackagePath>Unchecked.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\_Resources\0.rsrc">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\_Resources\0.rsrc">
       <PackagePath>_Resources\0.rsrc</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\_Resources\1.rsrc">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\_Resources\1.rsrc">
       <PackagePath>_Resources\1.rsrc</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\_Resources\2.rsrc">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\_Resources\2.rsrc">
       <PackagePath>_Resources\2.rsrc</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\_Resources\3.rsrc">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\_Resources\3.rsrc">
       <PackagePath>_Resources\3.rsrc</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mugbi\documents\visual studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\_Resources\index.txt">
+    <AppxPackagedFile Include="C:\Users\Mugbi\Documents\Visual Studio 2015\Projects\TestApp2\TaskApp\bin\x86\Release\ilc\_Resources\index.txt">
       <PackagePath>_Resources\index.txt</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

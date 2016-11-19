@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="22196992-afaa-4ba6-9651-bd47b3d79fbd" Publisher="CN=Mugbi" Version="1.0.0.0" ProcessorArchitecture="x86" />
+  <Identity Name="22196992-afaa-4ba6-9651-bd47b3d79fbd" Publisher="CN=Mugbi" Version="1.0.1.0" ProcessorArchitecture="x86" />
   <mp:PhoneIdentity PhoneProductId="22196992-afaa-4ba6-9651-bd47b3d79fbd" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Plain Task Management</DisplayName>

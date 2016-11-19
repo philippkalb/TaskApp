@@ -12,8 +12,11 @@
         <ViewCell>
           <StackLayout Orientation="Vertical">
             <StackLayout Orientation="Horizontal">
-              <Image Source="Inspection.png" Aspect="AspectFit"  HeightRequest="30"/>
-              <Label Text="{Binding Name}" FontSize="Medium"/>
+              <Image Source="Inspection.png" Aspect="AspectFit"  HeightRequest="50" VerticalOptions="Center" />
+              <StackLayout Orientation="Vertical"  >
+                <Label Text="{Binding Name}" FontSize="Medium" Margin="0, 0, 0, -10"/>
+                <Label Text="{Binding OpenItems}" TextColor="#503026"/>
+              </StackLayout>
             </StackLayout>
           </StackLayout>
           <ViewCell.ContextActions>
@@ -25,7 +28,7 @@
     </ListView.ItemTemplate>
   </ListView>
 
-  <Button Text="Add new List"
+  <Button Text="New"
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" 
            Clicked="addNewList" 

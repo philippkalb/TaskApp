@@ -21,6 +21,24 @@ namespace TestApp2
 
         public async void OnAddButtonClicked(object sender, EventArgs e) {
 
+            if (ListNameEntry.Text == null || ListNameEntry.Text.Length <= 0) {
+                await Navigation.PopModalAsync(true);
+                return;
+            }
+            AddNewTask();
+            MessagingCenter.Send(taskList, "BackToStartPage");
+
+            await Navigation.PopModalAsync(true);
+        }
+
+
+        void OnCompleted(object sender, EventArgs e) {
+            AddNewTask();
+            ListNameEntry.Text = string.Empty;
+        }
+
+
+        private void AddNewTask() {
             var task = new Task {
                 Name = ListNameEntry.Text,
                 TaskListId = taskList.Id,
@@ -35,10 +53,8 @@ namespace TestApp2
                 Count = task.Count,
                 TaskListId = task.TaskListId
             });
-            MessagingCenter.Send(taskList, "BackToStartPage");
-
-            await Navigation.PopModalAsync(true);
         }
+
 
         public async void OnCancelButtonClicked(object sender, EventArgs e) {
             await Navigation.PopModalAsync(true);

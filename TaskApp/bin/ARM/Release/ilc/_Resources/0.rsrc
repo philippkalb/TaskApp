@@ -22,7 +22,7 @@
     </ListView.ItemTemplate>
   </ListView>
 
-  <Button Text="Add new Item"
+  <Button Text="Add"
          HorizontalOptions="Center"
          VerticalOptions="CenterAndExpand"
          Clicked="addNewItem"
